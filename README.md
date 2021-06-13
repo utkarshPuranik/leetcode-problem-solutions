@@ -1,2 +1,2 @@
-# leet-code-problem-solutions
-My solutions to leetcode algorithm problems
+# LeetCode Problem Solutions
+In this repository, I try to solve algoritm problems on LeetCode.
